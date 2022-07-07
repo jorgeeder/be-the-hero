@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> 
-    <img alt="logo be the hero" src="./docImages/logo.png">
+    <img alt="logo be the hero" src="./docImages/logo.svg">
   </h1>
   <h2 align="center"> 
   RocketSeat - Semana OmniStack 11 🔥
@@ -26,12 +26,26 @@
 
 ## About The Project
 
-🚧  Under construction... 🚧
+During the 11th week of Rocketseat's OmniStack, the Be The Hero application was developed, which aims to help Non-Governmental Organizations - NGOs to find people who are willing to contribute with some value.
 
 
 ## Features
 
-🚧  Under construction... 🚧
+Web Application
+ 
+- User can register NGOs
+- NGOs can login to the web application
+- NGOs can view the list of their registered cases
+- NGOs can register cases
+- NGOs can delete registered cases
+- NGOs can log out of the application
+
+Mobile Application
+
+- List all registered cases
+- Lists details of a case
+- Button to contact by E-mail
+- Button to contact by Whatsapp
 
 
 ## Technologies
