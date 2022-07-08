@@ -64,13 +64,45 @@ Mobile Application
 
 ## Requirement
 
-🚧  Under construction... 🚧
+-   **[Node.js](https://nodejs.org/)**
 
 
 ## Running The Project
 
 ```bash
-🚧  Under construction... 🚧
+# You can use npm package manager or yarn to run the commands below
+
+## Clone the repository
+git clone https://github.com/jorgeeder/be-the-hero.git
+
+## Access the project folder in the terminal
+cd be-the-hero
+
+## Go to the folder where you want to install the dependencies
+cd backend # or: cd frontend / or: cd mobile
+
+## To install dependencies in backend, frontend and mobile folders
+npm install # or: yarn
+
+## To use the web version enter the backend and frontend folders and run
+npm start # or: yarn start
+## Access in the browser http://localhost:3000
+
+## To use the mobile version enter the backend and mobile folders and run
+npm start # or: yarn start
+## Access in the browser http://localhost:19002
+## Read the QR Code on your cell phone and use the Expo app to run the mobile version on your smartphone, or use an Android/iOS emulator to run it on your computer.
+
+# in case : Possible Unhandled Promise Rejection (id: 0):
+# [AxiosError: Network Error]
+
+## Access in the browser http://localhost:19002
+## copy the address of the connection that is above the qrcode
+## Go to mobile/src/services/api.js and change the BaseURL with the copied connection address
+## example: baseURL: 'http://192.168.1.11:3333' changed to baseURL: 'http://192.168.10.80:3333'
+
+
+
 ```
 ## License
 
