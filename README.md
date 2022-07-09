@@ -59,8 +59,9 @@ Mobile Application
 
 ## Application in Use
 
-See on  **[Youtube](https://www.youtube.com/watch?v=dFZhJ1uWTmE&list=PLUIvd9-i3UB-83d6xifzWlAuQalJl00cT&index=6
-)**
+See on  **[Youtube](https://www.youtube.com/watch?v=dFZhJ1uWTmE&list=PLUIvd9-i3UB-83d6xifzWlAuQalJl00cT&index=6)**
+
+Application layout in  **[Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1)**
 
 ![initialScreen](./docImages/initialScreen.png)
 ![detailsScreen](./docImages/details.png)
